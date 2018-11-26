@@ -1,2 +1,2 @@
 # Hello-World
-Initial trial and learning.
+Initial Entry
